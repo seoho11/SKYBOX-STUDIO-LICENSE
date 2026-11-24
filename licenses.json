@@ -3,5 +3,7 @@
   "admins": [
     "1e15b4e0-f907-4119-a2a7-48b18c4fadcf"
   ],
-  "users": {}
+  "users": {
+    "62486648-6748-47f5-b529-f83a3b8a9daa": true
+  }
 }
