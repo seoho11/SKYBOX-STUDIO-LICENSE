@@ -1,5 +1,8 @@
+
 {
   "version": 1,
-  "admins": [1e15b4e0-f907-4119-a2a7-48b18c4fadcf],
+  "admins": [
+    "1e15b4e0-f907-4119-a2a7-48b18c4fadcf"
+  ],
   "users": {}
 }
